@@ -1,2 +1,1 @@
-# .github
-First
+This Organization is an archive for @tsukurussyo
